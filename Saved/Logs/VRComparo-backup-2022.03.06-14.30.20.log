@@ -1,0 +1,1367 @@
+﻿Log file open, 03/06/22 14:26:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VRComparo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.284867
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ResonanceAudio
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusAudio
+LogPluginManager: Mounting plugin OculusOpenXR
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogAudio: Display: Oculus Audio: Middleware plugins not found, assuming native UE4 AudioMixer
+LogAudio: Display: Oculus Audio: Attempting to load Oculus Spatializer DLL: ../../../Engine/Binaries/ThirdParty/Oculus/Audio/Win64/ (from ovraudio64)
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Engine.ini]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.MobileMSAA:4]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.03.06-13.26.41:803][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[vr.MobileMultiView:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.03.06-13.26.41:804][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[r.Mobile.SupportGPUScene:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Engine.ini]
+[2022.03.06-13.26.41:805][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Engine.ini]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Engine.ini]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.06-13.26.41:805][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Engine.ini]
+[2022.03.06-13.26.41:805][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Engine.ini]
+[2022.03.06-13.26.41:813][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.06-13.26.41:813][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.06-13.26.41:814][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.06-13.26.41:814][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.06-13.26.41:814][  0]LogHAL: Display: Platform has ~ 16 GB [16991436800 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.06-13.26.41:814][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.06-13.26.41:814][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.06-13.26.41:814][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Scalability.ini]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.06-13.26.41:815][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Engine.ini]
+[2022.03.06-13.26.41:815][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Config/Windows/Editor.ini]
+[2022.03.06-13.26.41:815][  0]LogInit: Computer: MSI
+[2022.03.06-13.26.41:815][  0]LogInit: User: amnes
+[2022.03.06-13.26.41:815][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.03.06-13.26.41:815][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.06-13.26.41:815][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.03.06-13.26.41:815][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.06-13.26.41:815][  0]LogMemory: Process Physical Memory: 145.11 MB used, 145.11 MB peak
+[2022.03.06-13.26.41:816][  0]LogMemory: Process Virtual Memory: 129.36 MB used, 129.36 MB peak
+[2022.03.06-13.26.41:816][  0]LogMemory: Physical Memory: 11446.38 MB used,  4757.92 MB free, 16204.30 MB total
+[2022.03.06-13.26.41:816][  0]LogMemory: Virtual Memory: 134206408.00 MB used,  11316.24 MB free, 134217728.00 MB total
+[2022.03.06-13.26.41:854][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.06-13.26.41:895][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.06-13.26.41:896][  0]LogInit: Using OS detected language (fr-FR).
+[2022.03.06-13.26.41:896][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.03.06-13.26.41:904][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2022.03.06-13.26.41:904][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.03.06-13.26.41:904][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.03.06-13.26.41:904][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.03.06-13.26.41:904][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.03.06-13.26.41:905][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.03.06-13.26.41:905][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.03.06-13.26.41:905][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.03.06-13.26.41:906][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.06-13.26.41:918][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.06-13.26.41:929][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.06-13.26.41:929][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.06-13.26.42:076][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.06-13.26.42:093][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2022.03.06-13.26.42:093][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.06-13.26.42:093][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.06-13.26.42:093][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.06-13.26.42:196][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2022.03.06-13.26.42:196][  0]LogD3D11RHI:       5980/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.06-13.26.42:245][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.03.06-13.26.42:245][  0]LogD3D11RHI:       128/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI:       0/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI:     DeviceId    : 1f15
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI:     SubSysId    : 12a71462
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI:     SharedSystemMemory : 8495718400 bytes
+[2022.03.06-13.26.42:247][  0]LogD3D11RHI:     AdapterLuid : 0 66539
+[2022.03.06-13.26.42:254][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.06-13.26.42:254][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.06-13.26.42:254][  0]LogWindows: EnumDisplayDevices:
+[2022.03.06-13.26.42:254][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.03.06-13.26.42:254][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.03.06-13.26.42:254][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.03.06-13.26.42:254][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.03.06-13.26.42:255][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:      Driver Date: 2-10-2022
+[2022.03.06-13.26.42:255][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:     DeviceId    : 1f15
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:     SubSysId    : 12a71462
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:     SharedSystemMemory : 8495718400 bytes
+[2022.03.06-13.26.42:255][  0]LogD3D11RHI:     AdapterLuid : 0 66539
+[2022.03.06-13.26.42:308][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.06-13.26.42:308][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.06-13.26.42:308][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.06-13.26.42:322][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.06-13.26.42:351][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.06-13.26.42:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.06-13.26.42:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.06-13.26.42:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.06-13.26.42:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.06-13.26.42:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.06-13.26.42:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.06-13.26.42:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.06-13.26.42:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.06-13.26.42:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.06-13.26.42:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.06-13.26.42:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.06-13.26.42:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.06-13.26.42:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.06-13.26.42:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.06-13.26.42:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.06-13.26.42:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.06-13.26.42:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.06-13.26.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.06-13.26.42:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.06-13.26.42:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.06-13.26.42:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.06-13.26.42:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.06-13.26.42:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.06-13.26.42:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.06-13.26.42:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.06-13.26.42:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.06-13.26.42:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.06-13.26.42:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.06-13.26.42:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.06-13.26.42:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.06-13.26.42:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.06-13.26.42:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.06-13.26.42:792][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.06-13.26.42:800][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.06-13.26.42:835][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.06-13.26.42:861][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.06-13.26.42:861][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/amnes/Documents/Unreal Projects/VRComparo/Intermediate/Shaders/WorkingDirectory/11860/).
+[2022.03.06-13.26.42:861][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/amnes/AppData/Local/Temp/UnrealShaderWorkingDir/91DE0D564047DC8B250D859D2072195A/'.
+[2022.03.06-13.26.42:862][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.06-13.26.42:862][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.06-13.26.42:862][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.06-13.26.43:622][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.06-13.26.43:694][  0]LogDerivedDataCache: Loaded boot cache 0.07s 122MB C:/Users/amnes/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.06-13.26.43:695][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/amnes/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.06-13.26.43:695][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/amnes/Documents/Unreal Projects/VRComparo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.06-13.26.43:695][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.06-13.26.43:695][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/amnes/Documents/Unreal Projects/VRComparo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.06-13.26.43:695][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.06-13.26.43:712][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.06-13.26.43:712][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.06-13.26.43:713][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.06-13.26.43:720][  0]LogDerivedDataCache: Speed tests for C:/Users/amnes/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.06-13.26.43:721][  0]LogDerivedDataCache: Display: Performance to C:/Users/amnes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=942.31MBs, RandomWriteSpeed=143.33MBs. Assigned SpeedClass 'Local'
+[2022.03.06-13.26.43:721][  0]LogDerivedDataCache: Using Local data cache path C:/Users/amnes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.06-13.26.43:721][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.06-13.26.43:721][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.06-13.26.43:780][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.06-13.26.43:780][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.06-13.26.43:802][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2022.03.06-13.26.44:053][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.06-13.26.44:054][  0]LogInit: Active device profile: [000001C7DD7B3400][000001C7DB9B1B40 49] Windows
+[2022.03.06-13.26.44:054][  0]LogInit: Profiles: [000001C7DD7B3400][000001C7DB9B1B40 49] Windows, [000001C7DD770D00][000001C7DB9BC140 49] WindowsNoEditor, [000001C7DD7B0D00][000001C7DB9C02C0 49] WindowsServer, [000001C7DD772900][000001C7DB9C4440 49] WindowsClient, [000001C7DD7B2800][000001C7DB9C85C0 49] IOS, [000001C7DD771500][000001C7DB9CC740 49] iPadAir, [000001C7DD7B1500][000001C7DB9D08C0 49] iPadAir2, [000001C7DD6E2B00][000001C7DB9D8B80 49] IPadPro, [000001C7DD6E2C00][000001C7DB9D4BC0 49] iPadAir3, [000001C7DD7B2400][000001C7D895AD40 49] iPadAir4, [000001C7DD6E3600][000001C7D895EEC0 49] iPadMini2, [000001C7DD7B3700][000001C7DB9B5000 49] iPadMini3, [000001C7DD6E0600][000001C7D8963140 49] iPadMini4, [000001C7DD7B0C00][000001C7D8967280 49] iPadMini5, [000001C7DD72A400][000001C7DB9DD500 49] iPhone6, [000001C7DD72A500][000001C7D896B540 49] iPodTouch6, [000001C7DD6E1400][000001C7D8973800 49] iPhone7, [000001C7DD6E3F00][000001C7D896F840 49] iPodTouch7, [000001C7DD72AE00][000001C7D89779C0 49] iPhone5S, [000001C7DD6E2300][000001C7D897BB40 49] iPhone6Plus, [000001C7DD728600][000001C7D897E140 49] iPhone6S, [000001C7DD6E0700][000001C7D89822C0 49] iPhone6SPlus, [000001C7DD729400][000001C7DA2F8440 49] iPhone7Plus, [000001C7DD6E0B00][000001C7D870E5C0 49] iPhoneSE, [000001C7DD72A200][000001C7D8986740 49] iPhone8, [000001C7DD6E2700][000001C7D898A8C0 49] iPhone8Plus, [000001C7DD728300][000001C7DB9ECA40 49] iPhoneX, [000001C7DD6E3D00][000001C7DB9F0BC0 49] iPhoneXS, [000001C7DD72B500][000001C7DB9F4D40 49] iPhoneXSMax, [000001C7DD6E0900][000001C7D8996EC0 49] iPhoneXR, [000001C7DD728C00][000001C7DDE3D040 49] iPhone11, [000001C7DD6E3000][000001C7D870B180 49] iPhone11Pro, [000001C7DD728100][000001C7DBA2D2C0 49] iPhone11ProMax, [000001C7DD6E1C00][000001C7DB9B9400 49] iPhoneSE2, [000001C7DD728400][000001C7DB9F9540 49] iPhone12Mini, [000001C7DD6E3200][000001C7DB90D6C0 49] iPhone12, [000001C7DD729200][000001C7DB911840 49] iPhone12Pro, [000001C7DD6E1D00][000001C7DB9159C0 49] iPhone12ProMax, [000001C7DD72A700][000001C7DB919B40 49] iPadPro105, [000001C7DD6E0A00][000001C7DB91C140 49] iPadPro129, [000001C7DD729D00][000001C7DB9202C0 49] iPadPro97, [000001C7DD6E3C00][000001C7DB924440 49] iPadPro2_129, [000001C7DD729B00][000001C7DB9285C0 49] iPad5, [000001C7DD6E0400][000001C7DB92C740 49] iPad6, [000001C7DD729F00][000001C7DB9308C0 49] iPad7, [000001C7DD6E2F00][000001C7DB934A40 49] iPad8, [000001C7DD72B200][000001C7DB938BC0 49] iPadPro11, [000001C7DD6E1E00][000001C7DB93CD40 49] iPadPro2_11, [000001C7DD729100][000001C7DB940EC0 49] iPadPro3_129, [000001C7DD6E2200][000001C7DB945040 49] iPadPro4_129, [000001C7DD772400][000001C7DB9491C0 49] AppleTV, [000001C7DD7F0400][000001C7DB94D340 49] AppleTV4K, [000001C7DD771800][000001C7DB9FD480 49] TVOS, [000001C7DD7F1700][000001C7DB7C55C0 49] Mac, [000001C7DD773C00][000001C7DB7C9700 49] MacClient, [000001C7DD7F0700][000001C7DB7D1880 49] MacNoEditor, [000001C7DD772C00][000001C7DB7D5A00 49] MacServer, [000001C7DD7F1900][000001C7DB7D9B80 49] Linux, [000001C7DD770700][000001C7DB7DC180 49] LinuxAArch64, [000001C7DD7F0300][000001C7DB7E0300 49] LinuxNoEditor, [000001C7DD772000][000001C7DB7E4480 49] LinuxAArch64NoEditor, [000001C7DD7F0800][000001C7DB7E8600 49] LinuxClient, [000001C7DD771400][000001C7DB7EC780 49] LinuxAArch64Client, [000001C7DD7F1B00][000001C7DB7F0900 49] LinuxServer, [000001C7DD772100][000001C7DB7F4A80 49] LinuxAArch64Server, [000001C7DD7F1600][000001C7DB7F8C00 49] Android, [000001C7DD771100][000001C7DB7FCD80 49] Android_Low, [000001C7DD7F2100][000001C7DB800F00 49] Android_Mid, [000001C7DD770C00][000001C7DB805080 49] Android_High, [000001C7DD7F1400][000001C7DB809200 49] Android_Default, [000001C7DD770500][000001C7DB80D380 49] Android_Adreno4xx, [000001C7DD7F2300][000001C7DB811500 49] Android_Adreno5xx_Low, [000001C7DD6E1700][000001C7DB7CD640 49] Android_Adreno5xx, [000001C7DD72BD00][000001C7DB815780 49] Android_Adreno6xx, [000001C7DD6E1500][000001C7DB8198C0 49] Android_Adreno6xx_Vulkan, [000001C7DD7F2700][000001C7DB821A40 49] Android_Mali_T6xx, [000001C7DD6E0E00][000001C7DB825BC0 49] Android_Mali_T7xx, [000001C7DD7F1000][000001C7DB8281C0 49] Android_Mali_T8xx, [000001C7DD6E1300][000001C7DB82C340 49] Android_Mali_G71, [000001C7DD7F2600][000001C7DB8304C0 49] Android_Mali_G72, [000001C7DD6E1B00][000001C7DB834640 49] Android_Mali_G72_Vulkan, [000001C7DD7F2A00][000001C7DB8387C0 49] Android_Mali_G76, [000001C7DD6E1000][000001C7DB83C940 49] Android_Mali_G76_Vulkan, [000001C7DD7F2800][000001C7DB840AC0 49] Android_Mali_G77, [000001C7DD6E3900][000001C7DB844C40 49] Android_Mali_G77_Vulkan, [000001C7DD7F1300][000001C7DB848DC0 49] Android_Mali_G78, [000001C7DD6E1200][000001C7DB84CF40 49] Android_Mali_G78_Vulkan, [000001C7DD7F0D00][000001C7DB8510C0 49] Android_Mali_G710, [000001C7DD6E3E00][000001C7DB855240 49] Android_Mali_G710_Vulkan, [000001C7DD7F2500][000001C7DB8593C0 49] Android_Vulkan_SM5, [000001C7DD6E3300][000001C7DB85D540 49] Android_PowerVR_G6xxx, [000001C7DD7F2B00][000001C7DB8616C0 49] Android_PowerVR_GT7xxx, [000001C7DD6E3100][000001C7DB81D800 49] Android_PowerVR_GE8xxx, [000001C7DD7F1A00][000001C7DB865940 49] Android_PowerVR_GM9xxx, [000001C7DD6E1800][000001C7DB869A80 49] Android_PowerVR_GM9xxx_Vulkan, [000001C7DD7F1F00][000001C7DB86DBC0 49] Android_TegraK1, [000001C7DD6E1900][000001C7DB8741C0 49] Android_Unknown_Vulkan, [000001C7DD72AD00][000001C7DB878340 49] Lumin, [000001C7DD6E2E00][000001C7DB87C4C0 49] Lumin_Desktop, [000001C7DD72A900][000001C7DB880640 49] HoloLens, 
+[2022.03.06-13.26.44:170][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.06-13.26.44:170][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.06-13.26.44:170][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.06-13.26.44:170][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.06-13.26.44:170][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.06-13.26.44:184][  0]LogNetVersion: VRComparo 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3758882487)
+[2022.03.06-13.26.44:534][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.06-13.26.44:585][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.06-13.26.44:590][  0]LogUObjectArray: 17201 objects as part of root set at end of initial load.
+[2022.03.06-13.26.44:590][  0]LogUObjectAllocator: 4310096 out of 0 bytes used by permanent object pool.
+[2022.03.06-13.26.44:590][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.06-13.26.44:900][  0]LogPython: Using Python 3.7.7
+[2022.03.06-13.26.45:365][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D553824F4235EF2F08FF3B8B0E13B596 | Instance: 4D7387214FF5090BBDBE81BE9E82D816 (MSI-11860).
+[2022.03.06-13.26.45:411][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.06-13.26.45:415][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.06-13.26.45:599][  0]SourceControl: Source control is disabled
+[2022.03.06-13.26.45:599][  0]SourceControl: Source control is disabled
+[2022.03.06-13.26.45:602][  0]SourceControl: Source control is disabled
+[2022.03.06-13.26.45:605][  0]SourceControl: Source control is disabled
+[2022.03.06-13.26.45:611][  0]SourceControl: Source control is disabled
+[2022.03.06-13.26.45:628][  0]LogUProjectInfo: Found projects:
+[2022.03.06-13.26.45:758][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.06-13.26.45:790][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.06-13.26.45:810][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.06-13.26.45:810][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.06-13.26.45:955][  0]LogCollectionManager: Loaded 0 collections in 0.001352 seconds
+[2022.03.06-13.26.45:977][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amnes/Documents/Unreal Projects/VRComparo/Saved/Collections/' took 0.00s
+[2022.03.06-13.26.45:977][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amnes/Documents/Unreal Projects/VRComparo/Content/Developers/amnes/Collections/' took 0.00s
+[2022.03.06-13.26.45:977][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amnes/Documents/Unreal Projects/VRComparo/Content/Collections/' took 0.00s
+[2022.03.06-13.26.45:977][  0]LogOcInput: OculusInput pre-init called
+[2022.03.06-13.26.46:194][  0]LogEngine: Initializing Engine...
+[2022.03.06-13.26.46:279][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.03.06-13.26.46:280][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2022.03.06-13.26.46:280][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2022.03.06-13.26.46:785][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2022.03.06-13.26.46:785][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2022.03.06-13.26.46:786][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.06-13.26.46:787][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.06-13.26.46:919][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.06-13.26.46:926][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.06-13.26.46:927][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.06-13.26.46:930][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.06-13.26.46:930][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.06-13.26.46:931][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.06-13.26.46:931][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.06-13.26.46:931][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-13.26.46:931][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-13.26.46:931][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-13.26.46:931][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-13.26.46:931][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.06-13.26.46:931][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.06-13.26.46:931][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.06-13.26.46:931][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-13.26.46:932][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.06-13.26.46:932][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.06-13.26.46:932][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-13.26.46:932][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-13.26.46:994][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-13.26.46:994][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-13.26.47:138][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2022.03.06-13.26.47:139][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-13.26.47:141][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-13.26.47:141][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-13.26.47:142][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-13.26.47:154][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-13.26.47:154][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.06-13.26.47:156][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-13.26.47:156][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-13.26.47:156][  0]LogInit: FAudioDevice initialized.
+[2022.03.06-13.26.47:156][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.06-13.26.47:156][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.06-13.26.47:231][  0]LogDerivedDataCache: Saved boot cache 0.07s 122MB C:/Users/amnes/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.06-13.26.47:234][  0]LogInit: Texture streaming: Enabled
+[2022.03.06-13.26.47:249][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.03.06-13.26.47:253][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.06-13.26.47:253][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.06-13.26.47:255][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.06-13.26.47:286][  0]LogInit: Transaction tracking system initialized
+[2022.03.06-13.26.47:306][  0]BlueprintLog: New page: Editor Load
+[2022.03.06-13.26.47:369][  0]LocalizationService: Localization service is disabled
+[2022.03.06-13.26.47:395][  0]TimingProfiler: Initialize
+[2022.03.06-13.26.47:395][  0]TimingProfiler: OnSessionChanged
+[2022.03.06-13.26.47:395][  0]LoadingProfiler: Initialize
+[2022.03.06-13.26.47:395][  0]LoadingProfiler: OnSessionChanged
+[2022.03.06-13.26.47:395][  0]NetworkingProfiler: Initialize
+[2022.03.06-13.26.47:395][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.06-13.26.47:395][  0]MemoryProfiler: Initialize
+[2022.03.06-13.26.47:395][  0]MemoryProfiler: OnSessionChanged
+[2022.03.06-13.26.47:644][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.06-13.26.47:644][  0]LogCook: Display: Mobile HDR setting 0
+[2022.03.06-13.26.47:882][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amnes/Documents/Unreal Projects/VRComparo/Content/' took 0.01s
+[2022.03.06-13.26.48:041][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.06-13.26.48:044][  0]SourceControl: Source control is disabled
+[2022.03.06-13.26.48:044][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.301
+[2022.03.06-13.26.48:044][  0]Cmd: MAP LOAD FILE="../../../../../../Users/amnes/Documents/Unreal Projects/VRComparo/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.06-13.26.48:044][  0]LightingResults: New page: Lighting Build
+[2022.03.06-13.26.48:045][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-13.26.48:045][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-13.26.48:045][  0]MapCheck: New page: Map Check
+[2022.03.06-13.26.48:045][  0]LightingResults: New page: Lighting Build
+[2022.03.06-13.26.48:050][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-13.26.48:052][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.03.06-13.26.49:479][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2022.03.06-13.26.49:481][  0]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.03.06-13.26.49:520][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.06-13.26.49:532][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.03.06-13.26.49:532][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.06-13.26.49:532][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,168ms to complete.
+[2022.03.06-13.26.49:532][  0]LogFileHelpers: Loading map 'VRTemplateMap' took 1.489
+[2022.03.06-13.26.49:534][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.791
+[2022.03.06-13.26.49:701][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-13.26.49:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-13.26.49:715][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-13.26.49:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-13.26.49:772][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3840 classes and 940 folders.
+[2022.03.06-13.26.49:781][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.06-13.26.49:795][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.06-13.26.49:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.06-13.26.49:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.03.06-13.26.49:796][  0]LogPakFile: OnPakFileMounted2Time == 0.001535
+[2022.03.06-13.26.49:807][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.06-13.26.49:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.06-13.26.49:807][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:807][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.03.06-13.26.49:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.03.06-13.26.49:813][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.06-13.26.49:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.06-13.26.49:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.03.06-13.26.49:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.06-13.26.49:818][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.06-13.26.49:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.06-13.26.49:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.03.06-13.26.49:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.06-13.26.49:824][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.06-13.26.49:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.06-13.26.49:824][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:824][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.03.06-13.26.49:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.03.06-13.26.49:829][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.06-13.26.49:829][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:829][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.06-13.26.49:829][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:829][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.06-13.26.49:829][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.03.06-13.26.49:835][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.06-13.26.49:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.06-13.26.49:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.03.06-13.26.49:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.03.06-13.26.49:841][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.06-13.26.49:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.06-13.26.49:841][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:841][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.03.06-13.26.49:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.06-13.26.49:848][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.06-13.26.49:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.06-13.26.49:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.03.06-13.26.49:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.06-13.26.49:855][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.06-13.26.49:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.06-13.26.49:855][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:855][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.03.06-13.26.49:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.03.06-13.26.49:860][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.06-13.26.49:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:860][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.06-13.26.49:860][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:860][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.03.06-13.26.49:860][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.06-13.26.49:867][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.06-13.26.49:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.06-13.26.49:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:868][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.03.06-13.26.49:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.03.06-13.26.49:873][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.06-13.26.49:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.06-13.26.49:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.03.06-13.26.49:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.06-13.26.49:879][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.06-13.26.49:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.06-13.26.49:879][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:879][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.03.06-13.26.49:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.03.06-13.26.49:884][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.06-13.26.49:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.06-13.26.49:884][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:884][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.03.06-13.26.49:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.06-13.26.49:890][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.06-13.26.49:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.06-13.26.49:890][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:890][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.03.06-13.26.49:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.03.06-13.26.49:895][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.06-13.26.49:895][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.06-13.26.49:895][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:895][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.06-13.26.49:896][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.03.06-13.26.49:901][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.06-13.26.49:901][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:901][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.06-13.26.49:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.03.06-13.26.49:901][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.03.06-13.26.49:906][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.06-13.26.49:906][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.06-13.26.49:906][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:906][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.03.06-13.26.49:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.03.06-13.26.49:914][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.06-13.26.49:915][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:915][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.06-13.26.49:915][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:915][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.03.06-13.26.49:915][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.06-13.26.49:920][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.06-13.26.49:920][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:920][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.06-13.26.49:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.03.06-13.26.49:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.06-13.26.49:926][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.06-13.26.49:926][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.06-13.26.49:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.03.06-13.26.49:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.03.06-13.26.49:934][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.06-13.26.49:934][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.06-13.26.49:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.03.06-13.26.49:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.03.06-13.26.49:942][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.06-13.26.49:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.06-13.26.49:942][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:942][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.03.06-13.26.49:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.03.06-13.26.49:949][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.06-13.26.49:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.06-13.26.49:949][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:949][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.03.06-13.26.49:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.03.06-13.26.49:956][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.06-13.26.49:956][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.06-13.26.49:956][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.06-13.26.49:956][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.06-13.26.49:956][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.03.06-13.26.49:956][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.03.06-13.26.50:117][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.06-13.26.50:123][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.03.06-13.26.50:251][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.06-13.26.50:258][  0]LogSlate: Took 0.006079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.06-13.26.50:260][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.06-13.26.50:442][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 4 (Frame:1).
+[2022.03.06-13.26.50:611][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.03.06-13.26.50:611][  0]LogLoad: (Engine Initialization) Total time: 10.87 seconds
+[2022.03.06-13.26.50:611][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.06-13.26.50:663][  0]LogAssetRegistry: Asset discovery search completed in 6.8632 seconds
+[2022.03.06-13.26.50:668][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.03.06-13.26.50:670][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.06-13.26.50:712][  1]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.06-13.26.50:782][  3]LogSlate: Took 0.005819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.06-13.27.21:895][815]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.03.06-13.27.33:914][528]LogSlate: Took 0.004711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.06-13.53.08:980][519]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{340ec2b4-1207-45b2-be83-6ef49d0de6ba}.
+[2022.03.06-13.53.08:980][519]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.06-13.53.09:026][519]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-13.53.09:026][519]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-14.10.57:686][223]LogSlate: Window 'Plugins' being destroyed
+[2022.03.06-14.10.57:691][223]LogSlate: Window 'Plugins' being destroyed
+[2022.03.06-14.10.57:692][223]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.03.06-14.11.56:757][379]LogSlate: Took 0.012974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.03.06-14.12.17:201][596]LogMaterial: Display: Missing cached shadermap for M_Chair in PCD3D_SM5, Default, SM5 (DDC key hash: 6003F26177D69C2838D1CE1FD968492DD6279073), compiling. 
+[2022.03.06-14.12.17:284][596]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.06-14.12.17:341][596]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2022.03.06-14.12.17:341][596]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2022.03.06-14.12.17:341][596]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.03.06-14.12.17:341][596]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2022.03.06-14.12.17:341][596]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-14.12.34:040][497]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-14.12.34:040][497]LogShaderCompilers: Display: Total job queries 25, among them cache hits 0 (0.00%)
+[2022.03.06-14.12.34:040][497]LogShaderCompilers: Display: Tracking 7 distinct input hashes that result in 7 distinct outputs (100.00%)
+[2022.03.06-14.12.34:040][497]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.03.06-14.12.34:041][497]LogShaderCompilers: Display: ================================================
+[2022.03.06-14.30.07:337][662]LogSlate: Took 0.000801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.06-14.30.07:360][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_Asteroid_Field.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:363][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_Booster_Round.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:366][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_Booster_Square.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:368][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_Bubbles.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:371][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_Exhaust.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:374][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_Explosion.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:376][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_Fire.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:379][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_LaserShoot.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:382][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_SpaceClouds.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:384][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_SpaceCloudsLarge.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:387][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_Steam.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:390][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/FX/FX_WarpTunnel.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:393][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/Ceilings1.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:395][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/Demonstration_Exterior.umap'. Unknown extension 'umap'.
+[2022.03.06-14.30.07:398][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/Demonstration_Exterior_BuiltData.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:401][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/Demonstration_Interior.umap'. Unknown extension 'umap'.
+[2022.03.06-14.30.07:404][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/Demonstration_Interior_BuiltData.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:406][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/Floors1.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:409][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/Overview.umap'. Unknown extension 'umap'.
+[2022.03.06-14.30.07:412][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/Overview_BuiltData.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:415][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/PolygonSciFiSpace_Emissive_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:417][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/PolygonScifiSpace_Material_01_A.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:420][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/PolygonSciFiSpace_Texture_01_A.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:423][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/Props1.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:425][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/Signs1.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:428][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Maps/Walls1.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:431][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_B.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:434][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_C.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:437][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_D.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:439][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_E.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:442][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_F.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:445][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_02_A.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:447][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_02_B.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:451][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_02_C.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:453][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_02_D.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:456][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_02_E.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:459][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_02_F.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:461][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_03_A.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:464][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_03_B.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:467][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_03_C.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:470][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_03_D.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:473][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_03_E.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:475][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_03_F.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:478][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_04_A.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:481][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_04_B.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:484][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_04_C.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:487][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_04_D.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:490][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_04_E.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:492][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_04_F.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:495][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_Planet_Inst_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:498][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_Planet_Lines_Inst_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:501][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_Planet_Lines_Inst_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:504][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_Triplanar_Dirty.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:507][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Base/MAT_PolygonSciFiSpace_Planets_Lines.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:509][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Base/MAT_PolygonSciFiSpace_Space_Planets.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:513][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/FX_Materials/MAT_FX_Booster_Mat.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:516][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/FX_Materials/MAT_FX_Default_Mat.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:519][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/FX_Materials/MAT_FX_Explosion_Cloud_Mat.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:522][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/FX_Materials/MAT_FX_Fire_Mat.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:524][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/FX_Materials/MAT_FX_Laser.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:527][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/FX_Materials/MAT_FX_Planet_Rings.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:530][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/FX_Materials/MAT_FX_Skybox.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:533][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/FX_Materials/MAT_FX_Smoke_Mat.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:536][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/FX_Materials/MAT_FX_SpaceClouds_Mat.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:539][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/FX_Materials/MAT_FX_Spark_Mat.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:542][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/FX_Materials/MAT_FX_Warptunnel_Mat.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:545][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/MAT_PolygonSciFiSpace_01_A.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:548][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/MAT_PolygonSciFiSpace_Planet_Inst_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.07:551][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/MAT_PolygonSciFiSpace_Planet_Lines_Inst_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:609][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/MAT_PolygonSciFiSpace_Ship.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:729][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/MAT_PolygonSciFiSpace_Signs_01_A.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:733][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/MAT_PolygonSciFiSpace_Station.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:735][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Misc/MAT_PolygonSciFiSpace_Energy.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:738][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Misc/MAT_PolygonSciFiSpace_Glass_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:741][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Misc/MAT_PolygonSciFiSpace_Glass_CockpitInterior.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:744][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Misc/MAT_PolygonSciFiSpace_Hud.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:746][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/Misc/MAT_PolygonSciFiSpace_Hud_Glass.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:749][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_01_B_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:751][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_01_C_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:755][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_01_D_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:758][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_01_E_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:760][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_01_F_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:763][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_02_A_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:766][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_02_B_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:769][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_02_C_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:771][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_02_D_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:774][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_02_E_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:776][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_02_F_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:779][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_03_A_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:782][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_03_B_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:785][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_03_C_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:788][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_03_D_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:790][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_03_E_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:793][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_03_F_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:796][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_04_A_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:798][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_04_C_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:801][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_04_D_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:804][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_04_E_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:807][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Materials/PolygonSciFiSpace_Mat_Glass_2.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.09:809][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Ceiling_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:777][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Chair_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:867][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Chair_Captain_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:870][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Console_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:873][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Console_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:876][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Console_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:879][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Console_Corner_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:882][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Floor_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:885][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Platform_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:889][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Rear_Wall_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:892][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Walls_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:895][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Walls_Glass_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:899][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Bridge_Wall_Details_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:902][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Ceiling_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:905][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Ceiling_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:908][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Ceiling_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:910][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Ceiling_Pipes_Straight_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:913][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Ceiling_Pipes_Straight_Broken_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:916][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Ceiling_Pipes_Turn_L_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:919][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Ceiling_Pipes_Turn_R_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:922][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Ceiling_Pipe_Junction_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:925][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Corridor_Double_Arch_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:928][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Corridor_Double_Arch_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:931][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Corridor_Single_Arch_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:934][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Corridor_Single_Arch_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:937][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Corridor_Single_Arch_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:940][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Crew_Beds_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:943][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Crew_Blank_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:946][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Crew_Blank_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:949][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Crew_Desk_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:952][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Crew_Kitchen_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:955][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Crew_Shower_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:958][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Crew_Toilet_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:961][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:965][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_010.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:968][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_011.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:972][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:975][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.10:978][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_04.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:202][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_05.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:344][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_06.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:348][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_07.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:352][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_08.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:355][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_09.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:359][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Large_Walkway_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:362][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Large_Walkway_Endcap_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:366][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:369][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:372][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:376][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_04.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:380][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_05.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:384][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_06.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:388][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_07.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:391][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_08.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:395][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_Hand_Rail_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:398][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_Hand_Rail_End_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:402][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_Hatch_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.12:405][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_Hatch_Door_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:118][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_Walkway_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:212][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Floor_Small_Walkway_Endcap_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:216][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_HangerCeiling_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:219][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_HangerExteriorDoor_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:222][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_HangerExteriorDoor_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:224][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_HangerExteriorShip_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:227][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_HangerExteriorShip_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:230][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_HangerExterior_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:233][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_HangerFloor_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:236][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_HangerGlass_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:239][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_HangerPlatform_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:241][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Hanger_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:244][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Hydroponics_BaseFloor_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:247][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Hydroponics_Ladder_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:250][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Hydroponics_Roof_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:253][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Hydroponics_Roof_RingLights_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:256][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Hydroponics_UpperFloor_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:258][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Hydroponics_UpperWalkway_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:261][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Hydroponics_WallPlantsLower_L_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:264][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Hydroponics_WallPlantsLower_R_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:267][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Hydroponics_WallPlantsUpper_L_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:271][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Hydroponics_WallPlantsUpper_R_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:274][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Landing_Platform_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:277][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Lift_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:280][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Lift_Door_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:283][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Lift_Door_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:286][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Lift_Wall_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:289][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Lift_Wall_Door_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:291][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Lift_Wall_Door_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:295][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Roof_Exterior_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:297][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Roof_Exterior_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:300][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Roof_Exterior_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:303][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:306][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_01_Alt.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:309][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:312][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:315][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_04.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.13:318][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_04_Alt.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:537][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_05.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:681][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_06.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:685][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Corner_Pillar_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:688][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Corner_Pillar_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:691][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Corner_Pillar_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:694][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Corner_Pillar_04.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:697][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Corner_Pillar_05.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:700][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Corner_Pillar_Wide_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:703][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Corner_Pillar_Wide_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:706][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Corner_Pillar_Wide_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:709][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Corner_Pillar_Wide_04.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:712][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Corner_Pillar_Wide_05.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:715][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:718][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:721][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:725][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_04.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:728][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_05.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:731][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_06.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:734][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_Door_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.14:737][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_Door_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:472][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_Door_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:576][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_Door_04.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:580][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_Door_L_05.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:584][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Doorframe_Door_R_05.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:587][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Door_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:590][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Door_06.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:593][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_EscPod_Hatch_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:596][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Esc_Hatch_Door_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:599][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Exterior_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:603][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Exterior_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:606][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Exterior_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:609][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Exterior_04.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:612][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Exterior_Pillar_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:615][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Exterior_Window_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:618][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Exterior_Window_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:621][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Glass_04.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:624][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Glass_04_Alt.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:627][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Mechanical_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:630][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Mechanical_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:633][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Pillar_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:637][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Pillar_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:639][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Pillar_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:643][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Pillar_04.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:646][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Pillar_05.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:649][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Pillar_06.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:652][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Pillar_07.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:655][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Pods_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:659][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Pods_Glass_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:662][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Buildings/SM_Bld_Wall_Tube_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:665][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Alien_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:668][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_BR_BigAlien_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:671][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_BR_BigAlien_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.15:674][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_BR_EVA_Suit_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.16:831][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_BR_SpaceSoldier_Male_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.16:975][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_BR_War_Robot_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.16:978][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_BR_War_Robot_01_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.16:981][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_BR_War_Robot_01_Skeleton.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.16:985][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_CrewCaptain_Female_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.16:988][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_CrewCaptain_Male_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.16:990][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Crew_Female_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.16:993][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Crew_Male_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.16:996][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Crew_Male_01_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:000][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Crew_Male_01_Skeleton.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:003][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Cryo_Female_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:006][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Cryo_Male_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:009][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Hunter_Female_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:012][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Junker_Female_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:015][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Junker_Male_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:018][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Medic_Male_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:023][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_Psionic_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:028][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_RobotFemale_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:034][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Female.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:707][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Female_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:813][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Female_Armored.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:816][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Female_Helmet.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:820][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Male.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:823][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Male_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:827][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Male_Armored.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:831][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Male_Helmet.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:834][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Crew_Female_Hair_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:838][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Crew_Male_Hair_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:841][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_EVA_Cover_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:844][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_EVA_Cover_Clear_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:848][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_EVA_Cover_Glass_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:851][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_EVA_Female_Head_Blank_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:855][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_EVA_Female_Head_Scaled_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:858][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_EVA_Male_Head_Blank_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:861][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_EVA_Male_Head_Scaled_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:864][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Female_Hair_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:868][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Hat_Captain_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:871][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Hat_Crew_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:874][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Hunter_Female_Hair_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:877][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Junker_Hair_Female_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:881][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Junker_Headset_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:884][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Junker_Helmet_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:887][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Junker_Helmet_Glass_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:890][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Male_Hair_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:894][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Male_Hair_02.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:897][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Male_Hair_03.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:900][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Male_Hair_05.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:903][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Male_Hair_06.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:906][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Male_Hair_07.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.17:909][662]LogAssetTools: Warning: Failed to import 'E:\POLYGON Synty Low Poly\Sci-Fi Space Pack\POLYGON_SciFiSpace_Unreal_4_19\Content\PolygonSciFiSpace/Meshes/Characters/SM_Chr_Attach_Mask_Medic_01.uasset'. Unknown extension 'uasset'.
+[2022.03.06-14.30.18:454][662]LogRHI: Error: Present Fail Count 1
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SyncInterval 0
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.BufferDesc.Width 36
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.BufferDesc.Height 54
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.OutputWindow 00000000005008C8
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.03.06-14.30.18:454][662]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.03.06-14.30.18:454][662]LogD3D11RHI: Error: SwapChain->ResizeBuffers(0, SizeX, SizeY, RenderTargetFormat, SwapChainFlags) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:298 
+ with error DXGI_ERROR_DEVICE_REMOVED, 
+ (Size=8x8 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)) -> (Size=37x54 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018))
+[2022.03.06-14.30.18:454][662]LogD3D11RHI: [Aftermath] GDynamicRHI=000001C7BF85F0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2022.03.06-14.30.18:454][662]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.03.06-14.30.18:454][662]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2022.03.06-14.30.20:443][662]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.03.06-14.30.20:443][662]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.03.06-14.30.20:443][662]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.03.06-14.30.20:444][662]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.03.06-14.30.20:444][662]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.03.06-14.30.20:444][662]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2022.03.06-14.30.20:450][662]Log file closed, 03/06/22 15:30:20
